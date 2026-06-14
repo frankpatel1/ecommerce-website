@@ -1,19 +1,36 @@
-> **A modern and responsive eCommerce website built using HTML, CSS, and JavaScript — perfect for learning frontend design or showcasing products online.**
+# Ecommerce Website
 
-### Other options depending on your goal:
+A modern and responsive e-commerce website built to demonstrate front-end web development skills and online shopping experiences. The project features a clean interface, product showcase sections, intuitive navigation, and mobile-friendly layouts, providing a strong foundation for retail and marketplace web applications. Built using HTML, CSS, and JavaScript.
 
-#### 💡 For Learning Purpose:
+## Features
 
-> **Beginner-friendly responsive eCommerce site built with HTML, CSS, and JavaScript. Great for practicing layout design and responsive web development.**
+* Fully responsive design
+* Product showcase and catalog sections
+* Interactive navigation and UI elements
+* Mobile-friendly user experience
+* Clean and organized codebase
+* Cross-browser compatibility
 
-#### 🛍️ For Template Use:
+## Technologies Used
 
-> **A clean and customizable frontend eCommerce template — ideal for product showcases, business landing pages, or web development projects.**
+* HTML5
+* CSS3
+* JavaScript
 
-#### 📱 If It's Mobile-Responsive Focused:
+## Getting Started
 
-> **Responsive and mobile-friendly eCommerce website template using HTML, CSS, and JavaScript.**
+1. Clone the repository:
 
-You can paste any of these into the “Description (optional)” box on your GitHub repo homepage (right under the repo name).
+   ```bash
+   git clone https://github.com/frankpatel1/ecommerce-website.git
+   ```
+2. Open the project folder.
+3. Launch `index.html` in your browser.
 
-Would you like a tagline or keywords too for better GitHub SEO?
+## Contributing
+
+Contributions are welcome. Fork the repository, create a feature branch, commit your changes, and submit a pull request for review.
+
+## License
+
+Available for educational and personal use.
